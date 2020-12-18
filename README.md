@@ -12,3 +12,7 @@
 
 
 ## 4. Ridge and Lasso implementation
+
+## 5. Titanic Data Analysis
+ 
+ * Logistic Regression is used for Model_Selection
